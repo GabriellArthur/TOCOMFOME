@@ -1,0 +1,24 @@
+				Aplicativo de comida.
+1.Consumidor
+	1.1-Escolha
+	1.2-Cadastro(nome,telefone,cidade aonde reside)                             //Inclusao
+	1.3-Listagem de produtos e distancia 										//Listagem
+	1.4-Confirmação de pedidos e celamento de pedidos							//Consulta e Exclusao
+	1.5-Pagamento
+	1.4-Avaliação de produto
+	1.5-Avaliação de entregador
+2.Produtor
+	2.1-Cadastro																//Inclusao
+	2.2-Cardapio																//Listagem
+	2.3-Listagem de produtos ainda existentes									//Consulta e Exclusao
+	2.4-Local aonde se encontra a loja
+3.Entregador
+	3.1-Cadastro																//Inclusao
+	3.2-Sistema de entrega(informar quantos livres e quantos ocupados)			//Consulta
+	3.3-Listagem de entregadores												//Listagem
+	3.4-Avaliação de cada entregador
+----------------------------------------------------------------------------------------------------------------------------------------
+Observasões: 
+-SINTESE
+-VALIDAÇÃO
+-EXPLICAÇÃO LINHA POR LINHA
